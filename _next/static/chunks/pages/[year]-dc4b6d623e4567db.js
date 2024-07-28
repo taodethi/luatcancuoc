@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[507],{4717:function(n,u,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/[year]",function(){return e(8858)}])},8858:function(n,u,e){"use strict";e.r(u),u.default=()=>"PostYearTemplate"}},function(n){n.O(0,[888,774,179],function(){return n(n.s=4717)}),_N_E=n.O()}]);
